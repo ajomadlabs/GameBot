@@ -2,8 +2,8 @@
 A simple CartPole gamebot using Open AI which keeps the stick balance on learning different positions
 <hr>
 # Installation
-  Create a folder
-  Create a virtual environment
+  Create a folder<br>
+  Create a virtual environment<br>
   Git clone https://github.com/Open-AI/Open-AI.git<br>
   Git clone https://github.com/ajomadlabs/GameBot.git
 <hr>
